@@ -52,7 +52,7 @@ body {
     top: 50px;
     left: 125px;
     z-index: 1;
-    border: 5px solid blue;
+    
 }
 .black-dot {
     width: 10px;
@@ -67,8 +67,14 @@ body {
     width: 450px;
     height: 140px;
     background-color: #d2691e;
-    border: 3px solid green;
+    position: absolute;
+    top: 275px;
+    left: 15px;
+    z-index: 1;
+    
 }
+
+
 
 
 
