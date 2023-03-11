@@ -244,6 +244,11 @@ border-radius: 50%;
   top: 15px;
   right: 30px;
 }
+.left {
+    position: absolute;
+    top: 15px;
+    left: 30px;
+}
 
 
 
